@@ -53,6 +53,79 @@ down in UWR RoU Standard 8.1 and further establish qualification of the project 
 Scope 5 for RoUs under the Standard. Also refer Annexure to this report for sample evidences
 supporting its procurement of untreated corporation sewage as described above. 
 ________________
+ISSUANCE DATE: 10/09/2026
 
+QTY: 4289322 RoU
+
+MP-01: 2015-2025
+___________
+Serial Number
+0001-000001-051642-UWR-RoU-IN-578-01012015-31122015
+Vintage Year
+2015
+Quantity in RoU Unsorted
+51642
+___________
+Serial Number: 0001-051643-313028-UWR-RoU-IN-578-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 261386
+_______________
+Serial Number: 0001-313029-692553-UWR-RoU-IN-578-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 379525
+__________
+Serial Number: 0001-692554-1177996-UWR-RoU-IN-578-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 485443
+____________
+Serial Number: 0001-1177997-1620025-UWR-RoU-IN-578-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 442029
+___________
+Serial Number: 0001-1620026-1887702-UWR-RoU-IN-578-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 267677
+______________
+Serial Number: 0001-1887703-2268050-UWR-RoU-IN-578-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 380348
+_________________
+Serial Number: 0001-2268051-2630623-UWR-RoU-IN-578-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 362573
+____________
+Serial Number: 0001-2630624-3116251-UWR-RoU-IN-578-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 485628
+_________________
+
+Serial Number: 0001-3116252-3685125-UWR-RoU-IN-578-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 568874
+__________
+Serial Number: 0001-3685126-4289322-UWR-RoU-IN-578-01012025-31122025
+
+Vintage Year: 2025
+
+Quantity: 604197
+________________
  
 
