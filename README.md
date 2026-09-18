@@ -59,12 +59,11 @@ QTY: 4289322 RoU
 
 MP-01: 2015-2025
 ___________
-Serial Number
-0001-000001-051642-UWR-RoU-IN-578-01012015-31122015
-Vintage Year
-2015
-Quantity in RoU Unsorted
-51642
+Serial Number: 0001-000001-051642-UWR-RoU-IN-578-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 51642
 ___________
 Serial Number: 0001-051643-313028-UWR-RoU-IN-578-01012016-31122016
 
